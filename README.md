@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tirupathirao127
-- 👀 I’m interested in ... Web Application Development
-- 🌱 I’m currently learning ... HTML, CSS
+- 👀 I’m interested in ... Software Quality Analyst
+- 🌱 I’m currently learning ... Cypress, PlayWright
 - 💞️ I’m looking to collaborate on ... Javascript concepts
 - 📫 How to reach me ... e-mail: tirupathirao127@gmail.com
 
